@@ -2,3 +2,4 @@
 - leis mais claras sobre a faixa presidencial, deixando de ser um objeto opcional para um objeto de importancia nacional. mesclar as duas faixas existentes e garantir o rastreio e seguranca deste patrimonio.
 - lei que proiba um partido que governou por 8 anos de voltar a governar durante um periodo de cooldown de outros 8 anos; entao este partido so podera tornar a eleger um presidente/governador 8 anos apos manter um cargo por 8 anos
 - tornar - alem de impratica - ilegal a privatizacao de servicos essenciais como saneamento, energia, saude.
+- regulamentar a criacao, manuntencao, posse e compartilhamento de software de inteligencia artificial
